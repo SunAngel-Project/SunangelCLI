@@ -1,4 +1,4 @@
-# Sunangel ![version](https://img.shields.io/badge/v0.1.0-blue.svg)
+# Sunangel [![version](https://img.shields.io/badge/v0.1.0-blue.svg)](https://github.com/SunAngel-Project/SunangelCLI/releases)
 
 [![unit test status](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/core_unit_tests.yaml/badge.svg?branch=develop)](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/core_unit_tests.yaml)
 [![unit test status](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/cli_unit_tests.yaml/badge.svg?branch=develop)](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/cli_unit_tests.yaml)
@@ -27,7 +27,7 @@ git checkout latest # make sure you are at the latest release, not on develop
 
 ### Binary
 
-Download binaries from the [releases](https://github.com/cloudsftp/Sunangel/releases).
+Download binaries from the [releases](https://github.com/SunAngel-Project/SunangelCLI/releases).
 
 ## Usage
 
