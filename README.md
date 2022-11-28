@@ -1,9 +1,9 @@
 # Sunangel ![version](https://img.shields.io/badge/v0.1.0-blue.svg)
 
-[![unit test status](https://github.com/cloudsftp/Sunangel/actions/workflows/core_unit_tests.yaml/badge.svg?branch=develop)](https://github.com/cloudsftp/Sunangel/actions/workflows/core_unit_tests.yaml)
-[![unit test status](https://github.com/cloudsftp/Sunangel/actions/workflows/cli_unit_tests.yaml/badge.svg?branch=develop)](https://github.com/cloudsftp/Sunangel/actions/workflows/cli_unit_tests.yaml)
-[![build status](https://github.com/cloudsftp/Sunangel/actions/workflows/build.yaml/badge.svg?branch=develop)](https://github.com/cloudsftp/Sunangel/actions/workflows/build.yaml)
-[![release status](https://github.com/cloudsftp/Sunangel/actions/workflows/release.yaml/badge.svg)](https://github.com/cloudsftp/Sunangel/actions/workflows/release.yaml)
+[![unit test status](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/core_unit_tests.yaml/badge.svg?branch=develop)](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/core_unit_tests.yaml)
+[![unit test status](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/cli_unit_tests.yaml/badge.svg?branch=develop)](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/cli_unit_tests.yaml)
+[![build status](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/build.yaml/badge.svg?branch=develop)](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/build.yaml)
+[![release status](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/release.yaml/badge.svg)](https://github.com/SunAngel-Project/SunangelCLI/actions/workflows/release.yaml)
 
 ## Motivation
 
